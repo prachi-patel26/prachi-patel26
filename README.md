@@ -33,7 +33,7 @@ class PrachiPatel:
         self.name       = "Prachi Patel"
         self.location   = "Bengaluru, Karnataka 🇮🇳"
         self.degree     = "B.Tech CS (AI & ML) — DSU '27"
-        self.gpa        = 9.40
+        self.gpa        = 9.46
         self.focus      = ["Backend Systems", "AI Integration",
                            "RAG Pipelines", "LLM APIs"]
         self.stack      = {
