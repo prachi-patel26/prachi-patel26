@@ -5,7 +5,7 @@
 
 <!-- ═══════════════════ LIVE TYPING SVG ═══════════════════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Python+Backend+Developer+%F0%9F%90%8D;FastAPI+%2B+AI+Systems+Engineer+%E2%9A%A1;Building+scalable+AI+pipelines...;RAG+%7C+LLMs+%7C+System+Design;GPA+9.4+%E2%80%94+DSU+AI%2FML+%272027" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Python+Backend+Developer+%F0%9F%90%8D;FastAPI+%2B+AI+Systems+Engineer+%E2%9A%A1;Building+scalable+AI+pipelines...;RAG+%7C+LLMs+%7C+System+Design;GPA+9.46+%E2%80%94+DSU+AI%2FML+%272027" alt="Typing SVG" />
 </a>
 
 <br/>
