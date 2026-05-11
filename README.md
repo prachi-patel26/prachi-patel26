@@ -15,7 +15,7 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/prachi-patel26?style=for-the-badge&color=0e7490&labelColor=0f172a&label=FOLLOWERS" />
 &nbsp;
-<img src="https://img.shields.io/badge/GPA-9.40%2F10-38bdf8?style=for-the-badge&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/GPA-9.46%2F10-38bdf8?style=for-the-badge&labelColor=0f172a" />
 
 </div>
 
